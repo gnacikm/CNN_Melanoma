@@ -1,0 +1,8 @@
+# ignore any cache
+__pycache__/
+.ipynb_checkpoints/
+kaggle/kaggle.json
+saved_models/tuner
+data/melanoma.zip
+data/dermmel
+data/DermMel
