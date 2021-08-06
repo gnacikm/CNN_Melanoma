@@ -1,9 +1,9 @@
 # Short Intro
 In this repo we investigate various deep Convolutional Neural Networks (CNNs) in order to classify the images of Melanoma/Non-melanoma Cancer.  We will build and tune a simple CNN and also investigate Deep CNNs by transfer learning. 
 
-# Package Requirenments
+# Package Requirements
 To install all necessary packages to run this repo please run
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 # Structure
 The structure of this repo is the following:
